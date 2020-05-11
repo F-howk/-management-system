@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+body,h1,h2,h3,h4,h5,h6,p,table,ul,li,dl,dt,dd,ol,form{margin:0; padding:0;}
+html,body,#app{height:100%;}
+a{color: #555;}
+a:link,a:visited{text-decoration: none;}
+a:hover{color: #1296db;}
